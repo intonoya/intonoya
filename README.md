@@ -3,7 +3,13 @@
 
 <h4></h4>
 
-<h4>I am a student who studies as a physicist-engineer and a C/C++ programmer who also absolutely adores cats^^</h4>
+<h4>I am a student who studies as a physicist-engineer and a C/C++ programmer</h4>
+
+
+<h4></h4>
+
+
+<h4>And, as you could notice, I absolutely adore cats^^</h4>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/BBNYBoYa5VwtO/giphy.gif" width="250"/>
