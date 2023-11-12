@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h4>My name is Inga, but you can also call me Solanj!<br>I am a student who studies as a physicist-engineer and a C/C++ programmer.
+<h4>My name is Inga, but you can also call me Solanj!<br>I am a student who studies as a physicist-engineer at RAU and a C/C++ programmer at 42Yerevan.
 
 
 <h4>And, as you could notice, I absolutely adore cats^^</h4>
