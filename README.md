@@ -1,6 +1,11 @@
 ### Hi there 👋
 
-My name is Inga, but you can also call me Solanj as if my secind name) 
+My name is Inga, but you can also call me Solanj as if my second name.
+
+Currently I am studying in the Russian - Armenian University as a physicist-engineer, 
+and in the 42Yerevan programming school as a computer scientist.
+
+
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/BBNYBoYa5VwtO/giphy.gif" width="250"/>
